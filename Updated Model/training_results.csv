@@ -1,0 +1,11 @@
+Epoch,Train Loss,Train Acc (%),Test Loss,Test Acc (%),Model Path
+1,0.3058,88.87,0.1832,93.21,trained_model_epoch_1.pth
+2,0.1398,95.08,0.1377,95.19,trained_model_epoch_2.pth
+3,0.1062,96.25,0.0993,96.64,trained_model_epoch_3.pth
+4,0.0821,97.27,0.1199,95.42,trained_model_epoch_4.pth
+5,0.0665,97.85,0.0957,97.03,trained_model_epoch_5.pth
+6,0.0375,98.97,0.0292,99.31,trained_model_epoch_6.pth
+7,0.0336,99.04,0.0359,99.01,trained_model_epoch_7.pth
+8,0.0272,99.26,0.0263,99.16,trained_model_epoch_8.pth
+9,0.0251,99.32,0.0156,99.62,trained_model_epoch_9.pth
+10,0.0177,99.65,0.0181,99.31,trained_model_epoch_10.pth
